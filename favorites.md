@@ -2,17 +2,13 @@
 
 工具集： https://juejin.im/post/5ddbdc10e51d4523425db17f
 
-### 工具
-
-Sublime text,iTerm,Typora
-
 
 
 ### 网址
 
 AppleScript脚本学习网站：https://icehe.me/applescript/applescript/
 
-oreilly主业，包含各种翻译书籍和一些前沿知识： http://www.oreilly.com.cn/index.php
+oreilly主页，包含各种翻译书籍和一些前沿知识： http://www.oreilly.com.cn/index.php
 
 蜂窝科技：http://www.wowotech.net/memory_management/memory_model.html
 
@@ -43,3 +39,9 @@ go语言简明教程： https://geektutu.com/post/quick-golang.html
 小工具网址
 
 图片识别为数学公式：https://mathpix.com/
+
+
+
+各类电子书:  http://blog.sina.com.cn/cangshuzhe
+
+电子书下载网站： https://epubw.com/
